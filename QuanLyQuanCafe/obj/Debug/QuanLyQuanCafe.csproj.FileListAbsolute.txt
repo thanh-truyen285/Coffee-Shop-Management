@@ -1,0 +1,17 @@
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Monan.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Danhmuc.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.TaiKhoan.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.DoanhThu.resources
+D:\PTUD_Windows\QuanLyQuanCafe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Banan.resources
